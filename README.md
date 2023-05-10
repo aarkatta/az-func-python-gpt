@@ -17,9 +17,16 @@ Create an Azure HTTP trigger function in the local workspace and test it using P
 
 ![image](https://github.com/aarkatta/az-func-python-gpt/assets/6164192/c5bbfd8f-0a20-484b-bd52-144855521933)
 
+Create a new Azure HTTPTrigger function using Python. 
+
+Test the PythonAPI and then deploy the function to Azure. 
+
 ![image](https://github.com/aarkatta/az-func-python-gpt/assets/6164192/8696cb20-2b6b-4401-916f-fb20fcc290a3)
 
 ![image](https://github.com/aarkatta/az-func-python-gpt/assets/6164192/0db00340-4841-458e-9b0f-43e086a28d7a)
+
+![image](https://github.com/aarkatta/az-func-python-gpt/assets/6164192/51ed0169-8b02-46e5-979a-2f63f943514f)
+
 
 Login to https://portal.azure.com to get the function API URL.
 
